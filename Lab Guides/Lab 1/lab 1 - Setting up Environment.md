@@ -17,13 +17,13 @@
 2. Click on "Try for Free"
 
 
-![](./media/image1.png)
+    ![](./media/image1.png)
 
 
 3. Enter your credentials.
  
 
-![](./media/image2.png)
+    ![](./media/image2.png)
 
 4.  Once you enter your credentials and selected Next. You will be
     navigated to Microsoft Fabric Home page.
@@ -33,19 +33,19 @@
     the account on top-right corner of the Fabric home page. Select
     **Free Trial.**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image4.png)
 
 6. Select **Free Trial.**
 
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image5.png)
 
 7.  Once it is enabled, select **Fabric Home Page.** You will be
     navigated to Fabric Home Page.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image6.png)
 
 ![](./media/image7.png)
