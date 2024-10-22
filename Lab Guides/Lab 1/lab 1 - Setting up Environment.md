@@ -14,10 +14,17 @@ URL
 
 2.  Click on the option **Try for Free.**
 
+
+
 ![A screenshot of a computer Description automatically
 generated](./media/image1.png)
 
-3.  Enter your credentials.
+2.  Click on the option **Try for Free.**
+
+3. Enter your credentials.
+ 
+
+
 
 ![A screenshot of a login screen Description automatically
 generated](./media/image2.png)
