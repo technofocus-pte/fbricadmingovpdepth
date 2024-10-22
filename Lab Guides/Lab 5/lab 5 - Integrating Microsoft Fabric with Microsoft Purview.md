@@ -1,4 +1,4 @@
-**Lab 05 - Integrating Microsoft Fabric with Microsoft Purview**
+### **Lab 05 - Integrating Microsoft Fabric with Microsoft Purview**
 
 **Objectives**
 
