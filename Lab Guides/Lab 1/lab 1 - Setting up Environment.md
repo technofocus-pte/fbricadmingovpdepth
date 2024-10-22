@@ -15,8 +15,7 @@
 
 2.  Click on **Try for Free.**
 
-![A screenshot of a computer Description automatically
-generated](./media/image1.png)
+![](./media/image1.png)
 
 3.  Enter your credentials.
 
