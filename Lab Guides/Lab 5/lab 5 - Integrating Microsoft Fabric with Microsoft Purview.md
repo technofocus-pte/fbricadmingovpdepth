@@ -12,7 +12,7 @@
 
 ## Task 1 - Redeem Azure Pass
 
-1.  Open a browser and navigate to: **!!www.microsoftazurepass.com!!**
+1.  Open a browser and navigate to: ```www.microsoftazurepass.com```
 
 > It is recommended you close all browsers and open a new In-Private
 > Browser session. Other log-ins can persist and cause errors during the
