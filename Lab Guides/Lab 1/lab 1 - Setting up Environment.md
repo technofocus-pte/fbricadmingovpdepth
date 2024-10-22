@@ -14,11 +14,9 @@
 1.  Open a browser and paste the ```https://www.microsoft.com/en-us/microsoft-fabric/getting-started```
 URL
 
+2. Click on "Try for Free"
 
-
-
-![A screenshot of a computer Description automatically
-generated](./media/image1.png)
+![](./media/image1.png)
 
 
 3. Enter your credentials.
