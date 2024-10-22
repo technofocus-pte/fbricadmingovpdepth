@@ -16,7 +16,6 @@ URL
 
 
 
-2. Click on the option **Try for Free.**
 
 ![A screenshot of a computer Description automatically
 generated](./media/image1.png)
