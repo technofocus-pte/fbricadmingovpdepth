@@ -9,9 +9,9 @@
 
 ## Task 1 - Enabling the Fabric Trial License
 
-1.  Open a browser and paste the [Fabric
+1.  Open a browser and paste the ```[Fabric
     Trial](https://www.microsoft.com/en-us/microsoft-fabric/getting-started)
-    URL
+```URL
 
 2.  Click on **Try for Free.**
 
