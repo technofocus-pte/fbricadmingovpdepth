@@ -8,9 +8,7 @@ Objectives:
 
 ## Task 1: Enable OneDrive access to the Microsoft Account
 
-1.  Open a browser and paste the
-    [OneDrive](https://www.microsoft.com/en-in/microsoft-365/onedrive/online-cloud-storage)
-    URL. Select **Sign in.**
+1.  Open a browser and paste the onedrive URL ```https://www.microsoft.com/en-in/microsoft-365/onedrive/online-cloud-storage```. Select **Sign in.**
 
 ![A screenshot of a computer Description automatically
 generated](./media/image1.png)
@@ -25,7 +23,7 @@ generated](./media/image2.png)
 
 **Share an item via link**
 
-1.  Login to [Fabric Home page](https://app.fabric.microsoft.com/) with
+1.  Login to ```https://app.fabric.microsoft.com/``` with
     your office credentials.
 
 2.  In the workspace created, Create a new item. For this lab, let us
@@ -36,7 +34,7 @@ generated](./media/image2.png)
 ![A screenshot of a computer Description automatically
 generated](./media/image3.png)
 
-4.  Provide a name to the **Scorecard** as !!**Fabric Demo!!** by
+4.  Provide a name to the **Scorecard** as ```Fabric Demo``` by
     clicking on **Edit** beside the default name
 
 ![](./media/image4.png)
@@ -109,8 +107,7 @@ You have the following options:
 your organization**, you can only copy and share links using
 the **People with existing access** and **Specific people** options.
 
-8.  Choose the permissions you want to grant via the link.  
-    Select **Apply.** Then select **Send.**
+8.  Choose the permissions you want to grant via the link. Select **Apply.** Then select **Send.**
 
 ![A screenshot of a phone Description automatically
 generated](./media/image12.png)

@@ -7,8 +7,7 @@ Objectives
 
 ## Task 1 - Configuring the Tenant settings
 
-1.  Login into [Microsoft Fabric](https://app.fabric.microsoft.com/)
-    with your credentials and you will be navigated to the home page.
+1.  Login into Microsoft Fabric Portal - ```https://app.fabric.microsoft.com/``` with your credentials and you will be navigated to the home page.
 
 2.  Go to the admin portal by selecting Setting icon (Gear icon) on the
     top right corner of the home page.
