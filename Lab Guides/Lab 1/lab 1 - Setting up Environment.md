@@ -25,7 +25,6 @@ generated](./media/image2.png)
 4.  Once you enter your credentials and selected Next. You will be
     navigated to Microsoft Fabric Home page.
 
-![](./media/image3.png)
 
 5.  You must make sure that the Trial licence is enabled by selecting
     the account on top-right corner of the Fabric home page. Select
