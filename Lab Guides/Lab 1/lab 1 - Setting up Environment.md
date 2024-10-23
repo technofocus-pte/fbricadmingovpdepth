@@ -14,7 +14,7 @@
 
 2.  Click on the option that says **Try for Free.**
 
-    ![](./media/image1.png)
+     ![](./media/image1.png)
 
 3.  Enter your credentials.
 
