@@ -18,7 +18,7 @@ generated](./media/image1.png)
 3.  Once you sign in, click on **Your OneDrive is ready** option to
     navigate to the Homepage of Onedrive.
 
-![A screenshot of a cloud storage system Description automatically
+    ![A screenshot of a cloud storage system Description automatically
 generated](./media/image2.png)
 
 **Share an item via link**
@@ -31,47 +31,49 @@ generated](./media/image2.png)
 
 3.  Click on **New** and click on **Scorecard**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image3.png)
 
 4.  Provide a name to the **Scorecard** as ```Fabric Demo``` by
     clicking on **Edit** beside the default name
 
-![](./media/image4.png)
+    ![](./media/image4.png)
 
-![A close up of a screen Description automatically
+    ![A close up of a screen Description automatically
 generated](./media/image5.png)
 
 5.  Navigate back to the workspace and in the list of items, or in an
     open item, select the scorecard and select
-    the **Share** button ![Screenshot of share
+    the **Share** button
+
+    ![Screenshot of share
     button.](./media/image6.png).
 
-> ![](./media/image7.png)
+    ![](./media/image7.png)
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image8.png)
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image9.png)
 
 6.  The **Create and send link** dialog opens. Select **People in your
     organization can view**.
 
-![A screenshot of a phone Description automatically
+    ![A screenshot of a phone Description automatically
 generated](./media/image10.png)
 
 7.  The **Select permissions** dialog opens. Select the option as
     **People in your organization**.
 
-![A screenshot of a phone Description automatically
+    ![A screenshot of a phone Description automatically
 generated](./media/image11.png)
 
 **Note :**
 
 You have the following options:
 
-- **People in your organization** This type of link allows people in
+    - **People in your organization** This type of link allows people in
   your organization to access this item. It doesn't work for external
   users or guest users. Use this link type when:
 
@@ -109,10 +111,10 @@ the **People with existing access** and **Specific people** options.
 
 8.  Choose the permissions you want to grant via the link. Select **Apply.** Then select **Send.**
 
-![A screenshot of a phone Description automatically
+    ![A screenshot of a phone Description automatically
 generated](./media/image12.png)
 
-![A screen shot of a computer Description automatically
+    ![A screen shot of a computer Description automatically
 generated](./media/image13.png)
 
 Links that give access to **People in your organization** or **Specific
@@ -120,8 +122,7 @@ people** always include at least read access. However, you can also
 specify if you want the link to include additional permissions as well.
 
 **Note -** The **Additional permissions** settings vary for different
-items. Learn more about the [**item permission
-model**](https://learn.microsoft.com/en-us/fabric/get-started/share-items#item-permission-model).
+items. Learn more about the Item permission - ```https://learn.microsoft.com/en-us/fabric/get-started/share-items#item-permission-model```
 Links for **People with existing access** don't have additional
 permission settings because these links don't give access to the item.
 
@@ -129,21 +130,21 @@ permission settings because these links don't give access to the item.
     and send link** dialog, you have the option to copy the sharing
     link, generate an email with the link, or share it via Teams.
 
-![](./media/image14.png)
+    ![](./media/image14.png)
 
-- **Copy link**: This option automatically generates a shareable link.
+    - **Copy link**: This option automatically generates a shareable link.
   Select **Copy** in the **Copy link** dialog that appears to copy the
   link to your clipboard.
 
-![A screenshot of a link Description automatically
+    ![A screenshot of a link Description automatically
 generated](./media/image15.png)
 
-- **by Email**: This option opens the default email client app on your
+    - **by Email**: This option opens the default email client app on your
   computer and creates an email draft with the link in it.
 
 &nbsp;
 
-- **by Teams**: This option opens Teams and creates a new Teams draft
+    - **by Teams**: This option opens Teams and creates a new Teams draft
   message with the link in it.
 
 10. You can also choose to send the link directly to **Specific
@@ -161,27 +162,27 @@ through the shareable link.
     to the item, in the upper right of the sharing dialog, select
     the **Manage permissions** icon:
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image16.png)
 
 2.  The **Manage permissions** pane opens, where you can copy or modify
     existing links or grant users direct access. To modify a given link,
     select three horizontal dots(**…**).
 
-![](./media/image17.png)
+    ![](./media/image17.png)
 
 3.  In the **Manage permissions** pane, you can modify the permissions
     included in the link, people who can use this link, or delete the
     link. Select **Save** after your modification.
 
-![A screenshot of a link settings Description automatically
+    ![A screenshot of a link settings Description automatically
 generated](./media/image18.png)
 
 This image shows the **Manage Permissions** pane when the selected
 audience is **Specific people can view and share**. Note that the pane
 enables you to modify who can use the link.
 
-![A screenshot of a link settings Description automatically
+    ![A screenshot of a link settings Description automatically
 generated](./media/image19.png)
 
 ## Task 3 - Grant and manage access directly
@@ -192,17 +193,17 @@ link, such as granting permission to service account, for example.
 1.  Select **Manage permission** from the context menu of the Scoreboard
     that is created.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image20.png)
 
 2.  Select **Direct access**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image21.png)
 
 3.  Select **Add user**.
 
-![Screenshot of add user.](./media/image22.png)
+    ![Screenshot of add user.](./media/image22.png)
 
 4.  Enter the names of people or accounts that you need to grant access
     to directly. Select the permissions that you want to grant. You can
@@ -210,7 +211,7 @@ generated](./media/image21.png)
 
 5.  Select **Grant Access**.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image23.png)
 
 6.  You can see all the people, groups, and accounts with access in the
