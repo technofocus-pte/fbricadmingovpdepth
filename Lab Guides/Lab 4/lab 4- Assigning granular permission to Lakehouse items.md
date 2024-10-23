@@ -10,7 +10,7 @@ Objectives:
 
 1.  Open a browser and paste the onedrive URL ```https://www.microsoft.com/en-in/microsoft-365/onedrive/online-cloud-storage```. Select **Sign in.**
 
-   ![A screenshot of a computer Description automatically
+      ![A screenshot of a computer Description automatically
 generated](./media/image1.png)
 
 2.  Sign in with your Office tenant credentials.
