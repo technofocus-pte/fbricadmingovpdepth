@@ -55,13 +55,13 @@ verify, or change the Fabric switch. 
 1.  Click on **Settings** icon on the top-right corner of the Home page.
     Select **Admin Portal** from the list
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image8.png)
 
 2.  Navigate to **Tenant settings \> Users can create Fabric items.**
     Enable the option if it is disabled.
 
-![](./media/image9.png)
+    ![](./media/image9.png)
 
 ## Task 3 - Access to Capacity administrator
 
@@ -71,7 +71,7 @@ corner of Fabric, select the gear icon.
 1.  On the **Admin portal**, for a Fabric trial, select **Capacity
     settings** and then choose the **Trial** tab.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image10.png)
 
 2.  You must make sure that the admin name is reflecting in the Capacity
