@@ -8,16 +8,16 @@
 
 To create domain, you must be a Fabric admin.
 
-1.  Login to [Fabric Home Page](https://app.fabric.microsoft.com/) with
+1.  Login to Fabric Home Page - `https://app.fabric.microsoft.com/` with
     your credentials.
 
 2.  Select **Settings** icon on top right corner of the home page.
 
-        ![](./media/image1.png)
+    ![](./media/image1.png)
 
 3.  Open the admin portal and select the **Domains** tab.
 
-        ![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image2.png)
 
 4.  On the **Domains** tab, select **Create a domain**.

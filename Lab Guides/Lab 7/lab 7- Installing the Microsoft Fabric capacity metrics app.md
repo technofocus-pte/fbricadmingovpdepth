@@ -13,7 +13,7 @@ time, follow these steps:
 1.  Go to AppSource \> Microsoft Fabric Capacity Metrics and
     select **Get it now**.
 
-> https://appsource.microsoft.com/en-us/product/power-bi/pbi_pcmm.microsoftpremiumfabricpreviewreport?exp=ubp8
+    `https://appsource.microsoft.com/en-us/product/power-bi/pbi_pcmm.microsoftpremiumfabricpreviewreport?exp=ubp8`
 
     ![](./media/image1.png)
 
@@ -60,17 +60,13 @@ Metrics app by running it for the first time.
     window, fill in the below details:
 
 
-| Field | Required | Value | Notes|
-| --- | --- | --- |---|
-| Capacity ID | yes | An ID of a capacity you're an admin of | You can find the capacity ID in the URL of the capacity management page. In Microsoft Fabric, go to Settings > Governance and insights > Admin portal > Capacity settings, then select a capacity. The capacity ID is shown in the URL after /capacities/. For example, 9B77CC50-E537-40E4-99B9-2B356347E584 is the capacity ID in this URL: https://app.powerbi.com/admin-portal/capacities/9B77CC50-E537-40E4-99B9-2B356347E584. After installation, the app will let you see all the capacities you can access.|
-
-| UTC_offset | yes | Numerical values ranging from 14 to -12. To signify a Half hour timezone, use .5. For example, for Iran's standard time enter 3.5. | Enter your organization's standard time in Coordinated Universal Time (UTC)|
-
-| Timepoint | Automatically populated |  | This field is automatically populated and is used for internal purposes. The value in this field will be overwritten when you use the app.|
-
-| Timepoint2 | Automatically populated |  | This field is automatically populated and is used for internal purposes. The value in this field will be overwritten when you use the app.|
-
-| Advanced | Optional | On or Off | The app automatically refreshed your data at midnight. This option can be disabled by expanding the advanced option and selecting Off. |
+    | Field | Required | Value | Notes|
+    | --- | --- | --- |---|
+    | Capacity ID | yes | An ID of a capacity you're an admin of | You can find the capacity ID in the URL of the capacity management page. In Microsoft Fabric, go to Settings > Governance and insights > Admin portal > Capacity settings, then select a capacity. The capacity ID is shown in the URL after /capacities/. For example, 9B77CC50-E537-40E4-99B9-2B356347E584 is the capacity ID in this URL: `https://app.powerbi.com/admin-portal/capacities/9B77CC50-E537-40E4-99B9-2B356347E584`. After installation, the app will let you see all the capacities you can access.|
+    | UTC_offset | yes | Numerical values ranging from 14 to -12. To signify a Half hour timezone, use .5. For example, for Iran's standard time enter 3.5. | Enter your organization's standard time in Coordinated Universal Time (UTC)|
+    | Timepoint | Automatically populated |  | This field is automatically populated and is used for internal purposes. The value in this field will be overwritten when you use the app.|
+    | Timepoint2 | Automatically populated |  | This field is automatically populated and is used for internal purposes. The value in this field will be overwritten when you use the app.|
+    | Advanced | Optional | On or Off | The app automatically refreshed your data at midnight. This option can be disabled by expanding the advanced option and selecting Off. |
 
 
 5.  You can find the capacity ID in the URL of the capacity management

@@ -14,9 +14,7 @@
 
 1.  Open a browser and navigate to Azure Portal: `www.microsoftazurepass.com`
 
-> It is recommended you close all browsers and open a new In-Private
-> Browser session. Other log-ins can persist and cause errors during the
-> activation step.
+    It is recommended you close all browsers and open a new In-Private Browser session. Other log-ins can persist and cause errors during the activation step.
 
 2.  Click the **Start** button to get started.
 
@@ -29,18 +27,16 @@
 4.  Click **Confirm Microsoft Account** if the correct email address is
     listed.
 
-    > ![screenshot showing confirm microsoft account
-    > button](./media/image3.jpeg)
+    > ![screenshot showing confirm microsoft account button](./media/image3.jpeg)
 
 5.  Enter your **Azure Pass** promo code in the Enter Promo code box and
     click “**Claim Promo Code**”.
 
-  > ![screenshot showing promo code input field](./media/image4.jpeg)
+    > ![screenshot showing promo code input field](./media/image4.jpeg)
 
 6.  It may take up to 5 minutes to process the redemption.
 
-  > ![screenshot showing loading screen while promo code is being
-  > redeemed](./media/image5.jpeg)
+    > ![screenshot showing loading screen while promo code is being redeemed](./media/image5.jpeg)
 
 #### Activate your subscription
 
@@ -78,7 +74,7 @@ generated](./media/image9.png)
 
     1.  Subscription - Your Azure subscription
 
-    2.  Resource Group – FabricPurview
+    2.  Resource Group – `FabricPurview`
 
     3.  Select **Review + Create**
 
@@ -108,7 +104,7 @@ generated](./media/image9.png)
 
     2.  Resource Group – **FabricPurview**
 
-    3.  Microsoft Purview account name – **FabricPurviewInt**
+    3.  Microsoft Purview account name – `FabricPurviewInt`
 
     4.  Select **Review+Create**
 
@@ -169,7 +165,7 @@ generated](./media/image23.png)
 
 4.  Give your Fabric instance a friendly name
 
-    1.  Data source name – **Fabric Datasource**.
+    1.  Data source name – `Fabric Datasource`.
 
     2.  Select **Register.** The data source is added successfully.
 
@@ -181,7 +177,7 @@ generated](./media/image26.png)
 
 ## Task 5 - Authenticate to Fabric tenant
 
-1.  Switch back to  [Azure portal](https://portal.azure.com/), search
+1.  Switch back to  Azure portal - `https://portal.azure.com/`, search
     for **Microsoft Entra ID**.
 
     ![A screenshot of a computer Description automatically
@@ -198,7 +194,7 @@ generated](./media/image28.png)
 
     1.  Group Type: **Security**
 
-    2.  Group Name – Security11
+    2.  Group Name – `Security11`
 
     ![](./media/image29.png)
 
@@ -212,7 +208,7 @@ generated](./media/image31.png)
     ![](./media/image32.png)
 
 6.  On the Newly created Group page navigate to **members** on the left
-    hand pane**,** click on add members, Select You Microsoft Purview
+    hand pane, click on add members, Select You Microsoft Purview
     Managed Identity ( the Microsoft Purview Account name that you
     created). Click on **Select.**
 
@@ -278,7 +274,7 @@ generated](./media/image44.png)
 
 4.  Enter/Update the below details and click on **Continue.**
 
-    1.  Name – ``FabricPurviewScan```
+    1.  Name – `FabricPurviewScan`
 
     2.  Credential – **Microsoft Purview MSI (System)**
 
@@ -289,22 +285,22 @@ generated](./media/image44.png)
 **Note** - If **Test Connection** failed, select **View Report** to see
 the detailed status and troubleshoot the problem.
 
-1.  **Access** - Failed status means the user authentication failed.
+    1.  **Access** - Failed status means the user authentication failed.
     Scans using managed identity will always pass because no user
     authentication required. If using service principal or delegated
     authentication, make sure your Key Vault credential was correctly
     set up and that Microsoft Purview has access to the key vault.
 
-2.  **Assets (+ lineage)** - Failed status means the Microsoft Purview -
+    2.  **Assets (+ lineage)** - Failed status means the Microsoft Purview -
     Fabric authorization has failed. Make sure the Microsoft Purview
     managed identity is added to the security group associated in Fabric
     admin portal.
 
-3.  **Detailed metadata (Enhanced)** - Failed status means the Fabric
+    3.  **Detailed metadata (Enhanced)** - Failed status means the Fabric
     admin portal is disabled for the following setting - **Enhance admin
     APIs responses with detailed metadata**
 
-&nbsp;
+
 
 5.  On the **Scope your scan** page select **Yes(Purview)** to and click
     on **Continue.**
