@@ -11,28 +11,29 @@ Objectives
 
 ## Task 1 – Configuring Power BI visuals tenant settings
 
-1.  Open a browser. Login to [Fabric
-    Portal](https://app.fabric.microsoft.com/) with your credentials.
+1.  Open a browser. Login to ```https://app.fabric.microsoft.com/``` with your credentials.
 
-2.  Select **Settings \> Admin Portal**![](./media/image1.png)
+2.  Select **Settings \> Admin Portal**
+
+    ![](./media/image1.png)
 
 3.  Select **Tenant Settings.**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image2.png)
 
 4.  Enter Power BI visuals in the search area. These settings allow you
     to control the following actions for Power BI visuals in your
     organization
 
-![](./media/image3.png)
+    ![](./media/image3.png)
 
 5.  Select Enable for the visuals available.
 
     1.  **Allow visuals created using the Power BI SDK** – Toggle this
         button to enable uploading *.pbiviz* and AppSource visuals
 
-> ![](./media/image4.png)
+    > ![](./media/image4.png)
 
 2.  **Allow access to certified Power BI visuals only –** When this
     setting is enabled , only certified Power BI visuals render in your
@@ -56,12 +57,12 @@ generated](./media/image2.png)
 
 1.  On the **Admin portal**, select **Organizational visuals**
 
-![A screenshot of a phone Description automatically
+    ![A screenshot of a phone Description automatically
 generated](./media/image5.png)
 
 2.  Select **Add visual \> From a file.**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image6.png)
 
 3.  Enter the below fields
@@ -82,14 +83,14 @@ generated](./media/image6.png)
 
     6.  Select **Add**.
 
-![](./media/image7.png)
+    ![](./media/image7.png)
 
-![](./media/image8.png)
+    ![](./media/image8.png)
 
 4.  After it's uploaded, the visual displays in the organizational
     visuals list.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image9.png)
 
 **Task 3 - Add a visual from AppSource**
@@ -100,16 +101,16 @@ will always have the latest version of the visual.
 
 1.  Select **Add visual \> From AppSource.**
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image10.png)
 
 2.  In the **Power BI visuals** window, find the AppSource visual you
     want to add, and select **Add**. After it's uploaded, the visual
     displays in the organizational visuals list.
 
-![](./media/image11.png)
+    ![](./media/image11.png)
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image12.png)
 
 ## Task 3 – Scheduling a Refresh
@@ -119,17 +120,17 @@ generated](./media/image12.png)
 2.  Select the capacity you want to review from the **choose a
     capacity** dropdown menu.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image13.png)
 
 3.  Use the **refresh** button to refresh the table's results.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image14.png)
 
 4.  Click on the **Export** button to export a .csv file.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image15.png)
 
 ## Task 4 – Audit Logs in PBI Desktop
@@ -137,23 +138,23 @@ generated](./media/image15.png)
 1.  To access the audit logs, in Fabric select **Audit logs,** and then
     select Go to **Microsoft 365 Admin Center**.
 
-![A screenshot of a computer error Description automatically
+    ![A screenshot of a computer error Description automatically
 generated](./media/image16.png)
 
 2.  Click on **Start recording user and admin activity,** on the next
     window click **Yes** complete organizational setup.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image17.png)
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image18.png)
 
 3.  You can search the audit logs using the filters in the list that is
     visible. When you combine filters, the search results show only
     items that match all of the filter criteria.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image19.png)
 
 **Summary**
