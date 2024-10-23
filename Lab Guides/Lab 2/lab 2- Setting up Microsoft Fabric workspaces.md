@@ -61,7 +61,7 @@ generated](./media/image7.png)
 3.  Enter name or email, select a role, and select **Add**. You can add security groups, distribution lists,
     Microsoft 365 groups, or individuals to these workspaces as admins, members, contributors, or viewers. If you have the member role, you can only add others to the member, contributor, or viewer roles.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image8.png)
 
 4.  You can view and modify access later if needed. Use
@@ -77,11 +77,11 @@ the workspace flyout list.
 1.  Open the workspace flyout from the navigation pane and hover over
     the workspace you want to pin. Select the **Pin to top** icon.
 
-![](./media/image9.png)
+    ![](./media/image9.png)
 
 2.  The workspace is added to the **Pinned** list.
 
-![A screenshot of a computer Description automatically
+    ![A screenshot of a computer Description automatically
 generated](./media/image10.png)
 
 3.  To unpin a workspace, select the unpin button. The workspace is
