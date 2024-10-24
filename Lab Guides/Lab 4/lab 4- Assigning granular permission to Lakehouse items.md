@@ -144,7 +144,7 @@ generated](./media/image15.png)
 
 &nbsp;
 
-    - **by Teams**: This option opens Teams and creates a new Teams draft
+- **by Teams**: This option opens Teams and creates a new Teams draft
   message with the link in it.
 
 10. You can also choose to send the link directly to **Specific
