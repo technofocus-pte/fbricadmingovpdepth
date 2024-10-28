@@ -250,7 +250,7 @@ generated](./media/image36.png)
     ![](./media/image37.png)
 
 3.  Select the **Tenant settings** page. Search for  **Admin API
-    settings** and then search for **Allow service principals to use
+    settings** and then search for **Service principals can access
     read-only admin APIs**. Enable the toggle if it is not enabled. Add
     your Security group and select **Apply**
 
