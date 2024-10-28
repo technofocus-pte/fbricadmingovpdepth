@@ -259,7 +259,7 @@ generated](./media/image36.png)
     ![A white rectangular frame with black text Description automatically
 generated](./media/image39.png)
 
-4.  Perform the above steps
+4.  Perform the below steps and add security group
 
     1.  **Enhance admin APIs responses with detailed metadata** 
 
