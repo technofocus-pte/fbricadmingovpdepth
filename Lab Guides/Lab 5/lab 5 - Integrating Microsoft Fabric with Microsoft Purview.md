@@ -92,17 +92,30 @@ generated](./media/image9.png)
 
 ## Task 3 - Create an active Microsoft Purview account
 
-1.  Open a browser, sign-in to the ```https://portal.azure.com/``` with your Office 365 credentials.
+1.  Search for **Subscriptions** in the search bar. Select **Subscriptions**
 
-2.  Search for **Microsoft Purview** in the Azure portal.
+2.  Select your **Azure Pass - Subscriptions**.
+
+3.  Search for Resource Providers in the search box on the left navigation pane.
+
+4.  Select **Resource Providers** under **Settings** from the options that you see.
+
+5.  Enter `Microsoft.Storage` and select **Register**. Wait for a minute for it to be registered.
+
+6.  Refresh the page until you see the resource provider is registered.
+
+
+7.  Open a browser, sign-in to the ```https://portal.azure.com/``` with your Office 365 credentials.
+
+8.  Search for **Microsoft Purview** in the Azure portal.
 
     ![](./media/image13.png)
 
-3.  Select **Create** to create a new Microsoft Purview account.
+9.  Select **Create** to create a new Microsoft Purview account.
 
     ![](./media/image14.png)
 
-4.  Enter the below details
+10.  Enter the below details
 
     1.  Subscription – Your azure subscription
 
@@ -114,12 +127,12 @@ generated](./media/image9.png)
 
         ![](./media/image15.png)
 
-5.  Click on the **Create** button once the validation passed screen
+11.  Click on the **Create** button once the validation passed screen
     appeared.
 
     ![](./media/image16.png)
 
-6.  Once we click on the **Create** button the Deployment will start,
+11.  Once we click on the **Create** button the Deployment will start,
     and it will take around 5 minutes for the deployment to complete.
 
     ![](./media/image17.png)
