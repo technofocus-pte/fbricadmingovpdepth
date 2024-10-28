@@ -182,7 +182,7 @@ generated](./media/image23.png)
 
 4.  Give your Fabric instance a friendly name
 
-    1.  Data source name – `Fabric Datasource`.
+    1.  Data source name – `FabricDatasource`.
 
     2.  Select **Register.** The data source is added successfully.
 
