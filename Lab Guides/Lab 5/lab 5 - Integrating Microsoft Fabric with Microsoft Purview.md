@@ -34,7 +34,11 @@
 
     > ![screenshot showing promo code input field](./media/image4.jpeg)
 
-6.  It may take up to 5 minutes to process the redemption.
+6.  You must enter the details and select **Sign up**.
+
+**Note** - If you are navigated to configure the Multi authentication. Kindly request you to follow the procedure as you are navigated by the screen you receive.
+
+7.  It may take up to 5 minutes to process the redemption.
 
     > ![screenshot showing loading screen while promo code is being redeemed](./media/image5.jpeg)
 
