@@ -67,7 +67,7 @@ generated](./media/image6.png)
 
 3.  Enter the below fields
 
-    1.  **Choose a .pbiviz file** - Select a visual file to upload.
+    1.  **Choose a .pbiviz file** - Choose any visual file from the internet and download the file. Then upload the file accordingly.
 
     2.  **Name your visual** - Give a short title to the visual, so that
         report authors can easily understand what it does.
